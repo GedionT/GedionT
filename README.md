@@ -1,8 +1,11 @@
-# ሰላም ✌🏽, I'm Ged.
+## ሰላም ✌🏽, I'm Ged.
 
-![A technolgoy enthusiast from a young age](https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg "My BitMoji")
+<img align="right" width="320" height="310" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg">
+<br />
+<br />
 
 - 🌱 Always learning new things. 🐶
 - 👻 Fun fact, The moon has moonquakes. Did you know?
+- Head over to my portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
 
 
