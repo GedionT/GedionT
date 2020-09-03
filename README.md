@@ -1,6 +1,8 @@
-### Hi there 👋
+# ሰላም 🐶, I'm Ged.
 
-- 🌱 I’m always actively learning. 
-- 📫 Twitter: @GedionT
-- ⚡ Fun fact: "The moon has moonquakes bro!"
+![A technolgoy enthusiast from a young age](https://media.githubusercontent.com/media/GedionT.svg "My BitMoji)
+
+- 🌱 Always learning new things. 
+- 👻 Fun fact, The moon has moonquakes. Did you know?
+
 
