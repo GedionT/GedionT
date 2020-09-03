@@ -1,6 +1,6 @@
 ## ሰላም ✌🏽, I'm Ged.
 
-<img align="right" width="320" height="310" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg">
+<img align="right" width="320" height="200" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg">
 <br />
 <br />
 
