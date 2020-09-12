@@ -4,6 +4,6 @@
 
 - 🌱 Always learning new things. 🐶
 - 👻 Fun fact, The moon has moonquakes. Did you know?
-- Head over to my portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
+- Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
 
 
