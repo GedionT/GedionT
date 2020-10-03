@@ -7,3 +7,6 @@
 - Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
 
 
+---
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?GedionT&show_icons=true&hide_border=true" />
