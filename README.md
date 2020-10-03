@@ -4,9 +4,11 @@
 
 - 🌱 Always learning new things. 🐶
 - 👻 Fun fact, The moon has moonquakes. Did you know?
-- 🎯 Plans to contribute more to opensource this year
+- 🎯 I Plan to contribute more to opensource this year.
 - Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
 
 ---
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=gediont&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
+
+----
