@@ -9,4 +9,4 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?gediont&show_icons=true&hide_border=true" />
+![my github stats](https://github-readme-stats.vercel.app/api?username=gediont&count_private=true)
