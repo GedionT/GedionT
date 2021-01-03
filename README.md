@@ -1,7 +1,6 @@
 ## ሰላም ✌🏽, I'm Ged.
 <img align="right" width="320" height="250" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
 <br />
-
 * [ Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data-Science | Machine Learning ]
 
 * 🌱 Always learning new things. 🐶
