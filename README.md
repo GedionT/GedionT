@@ -3,7 +3,7 @@
 <br />
 
 * 🌱 Always learning new things. 🐶
-* Backend | Frontend | Cloud/ Cloud-Native | Data-Science | Machine Learning | Systems 
+* Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data-Science | Machine Learning | Systems 
 * 🎯 I Plan to contribute more to opensource this year.
 * 👻 Fun fact, The moon has moonquakes. Did you know?
 
