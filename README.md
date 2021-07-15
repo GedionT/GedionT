@@ -7,7 +7,7 @@
 
 * 🌱 Always learning new things. 🐶
 * 🎯 I Plan to contribute more to opensource this year.
-* 👻 Fun fact you didn't know: The moon has moonquakes.
+* 👻 Fun fact you didn't know: The moon has moonquakes!
 
 - Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gedion-tesh.me) to learn more about me.
 
