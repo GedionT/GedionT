@@ -2,7 +2,7 @@
 <img align="right" width="320" height="250" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
 <br />
 
-Software Engineer
+__Software Engineer__
 [ Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data Science | Machine Learning | Practical AI | NLP | Research ]
 
 ---
