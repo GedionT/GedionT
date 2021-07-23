@@ -3,7 +3,7 @@
 <br />
 
 __Software Engineer__
-  [ Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data Science | Machine Learning | Practical AI | NLP | Research ]
+ <br /> [ Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data Science | Machine Learning | Practical AI | NLP | Research ]
 
 ---
 
