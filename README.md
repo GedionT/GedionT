@@ -3,7 +3,7 @@
 <br />
 
 __Software Engineer__
- <br /> ```[ Backend | Frontend | UI/UX | Cloud/ Cloud-Native | Data Science | Machine Learning | Practical AI | NLP | Open Source | Research | DS & Algorithms]```
+ <br /> [  ```Backend``` | ```Frontend``` | ```UI/UX``` | ```Cloud/ Cloud-Native``` | ```Data Science``` | ```Machine Learning``` | ```Practical AI``` | ```NLP``` | ```Open Source``` | ```Research``` | ```DS & Algorithms```  ]
 
 ---
 
