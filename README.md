@@ -1,5 +1,5 @@
 ## ሰላም ✌🏽, I'm Ged.
-<img align="right" width="320" height="250" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
+<img align="right" width="320" height="280" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
 <br />
 
 __Software Engineer__
