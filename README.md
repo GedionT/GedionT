@@ -3,7 +3,7 @@
 <br />
 
 __<div align="center">A Software Engineer</div>__
- <br /> [  ```Backend``` | ```Frontend``` | ```UI/UX``` | ```Cloud/ Cloud-Native``` | ```Data Science``` | ```Machine Learning``` | ```Practical AI``` | ```NLP``` | ```Open Source``` | ```Research``` | ```DS & Algorithms```  ]
+ <br /> [  ```Backend``` | ```Frontend``` | ```UI/UX``` | ```Cloud/ Cloud-Native``` | ```Data Science``` | ```Machine Learning``` | ```Practical AI``` | ```NLP``` | ```Open Source``` | ```Research``` | ```Algorithms```  ]
 
 ---
 
