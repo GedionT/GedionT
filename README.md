@@ -14,7 +14,5 @@
 - Head over to my **underconstruction** portfolio site at [gedion-tesh.me](https://gediont.github.io) to learn more about me.
 
 ---
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=gediont&count_private=true&show_icons=true&hide=stars&theme=tokyonight)
-
+![my github stats](https://readmestats.999857.xyz/api?username=gediont&count_private=true&show_icons=true&hide=stars)
 ----
