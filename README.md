@@ -3,11 +3,13 @@
 <br />
 
 > __<div align="center">A Software Engineer</div>__
- <br /> [ ```Algorithms``` | ```Backend``` | ```Frontend``` | ```UI/UX``` | ```Cloud/ Cloud-Native``` | ```Data Science``` | ```Machine Learning & AI ``` | ```NLP``` | ```Open Source``` | ```Neuroscience``` | ```Research``` ]
+ <br /> [ ```Algorithms``` | ```Data Science``` | ```Machine Learning & AI ``` | ```NLP``` | ```Backend``` | ```Frontend``` | ```Cloud/ Cloud-Native``` |  ```Open Source``` | ```Neuroscience``` | ```Research``` ]
 
 ---
 
 * 🌱 Always learning new things. 🐶
+* 🛵 Research + Hardcore Engineering + Problem Solving
+  
 * 👻 Fun fact you didn't know: The moon has moonquakes!
 
 - Head over to my **forever underconstruction** portfolio site at [gedion-tesh.me](https://gediont.github.io) to learn more about me.
