@@ -7,12 +7,12 @@
 
 ---
 
-* 🌱 Always learning new things. 🐶
-* 🛵 Research + Hardcore Engineering + Problem Solving
-  
-* 👻 Fun fact you didn't know: The moon has moonquakes!
+* 🌱 Always learning new things. 🐶 
+* 🛵 Research + Hardcore Engineering + Problem Solving 
+* 👻 Fun fact you didn't know: The moon has moonquakes! 
 
 - Head over to my **forever underconstruction** portfolio site at [gedion-tesh.me](https://gediont.github.io) to learn more about me.
+- Or Connect 🤝🏼 with me on my [LinkedIn](https://linkedin.com/in/gedion-teshome) 
 
 ---
 ![my github stats](https://readmestats.999857.xyz/api?username=gediont&count_private=true&show_icons=true&hide=stars)
